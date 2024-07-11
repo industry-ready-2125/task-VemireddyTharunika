@@ -1,8 +1,0 @@
-# Python files 
-*.pyc 
-__pycache__/ 
-# Logs 
-*.log 
-# Environment 
-.env 
-# Ignore any other specific files or directories 
